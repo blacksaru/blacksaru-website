@@ -34,7 +34,7 @@ export default function Contact() {
           <div className="w-full">
             <Fade delay={1500} triggerOnce={true}>
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d136834.1519573059!2d47.50927313944404!3d19.116951854484988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1639991650837!5m2!1sen!2sbd"
+                src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d136834.1519573059!2d19.147470257451893!3d47.51034900890106!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1639991650837!5m2!1sen!2sbd"
                 style={{ border: 0, width: "100%", height: "100%" }}
                 allowFullScreen={true}
                 loading="lazy"
