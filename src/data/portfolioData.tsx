@@ -27,6 +27,15 @@ const projectData = [
     siteUrl: "https://www.spacerace.site",
   },
   {
+    type: ["blockchain", "p2e games"],
+    role: "Blockchain Game Developer",
+    skills: ["Next.js", "Node.Js", "Rust", "Solana", "Web3.JS"],
+    imgUrl: "imgs/works/work13.jpg",
+    summary:
+      "This is one kind of Poker game on Solana network.",
+    siteUrl: "https://www.bullsvbears.com",
+  },
+  {
     type: ["blockchain", "website"],
     role: "Frontend and Web3 Developer",
     skills: ["Next.Js", "Web3.Js", "Ethereum"],

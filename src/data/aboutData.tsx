@@ -33,7 +33,7 @@ const knowledgeSets = [
   "CI/CD Pipleline",
   "Design",
   "AWS",
-  "Azura",
+  "Azure",
   "Agile Methodology"
 ];
 

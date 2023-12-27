@@ -44,7 +44,7 @@ export default function PortfolioCard(props: {
           >
             <p className="text-sm font-bold text-gray-100">{props.role}</p>
             <p className="text-xs text-gray-300">{props.summary}</p>
-            <div className="flex gap-2 mt-1 text-gray-300">
+            <div className="flex gap-4 mt-1 text-gray-300">
               {props.skills.map((item, key) => (
                 <li className="text-xs" key={key}>
                   {item}
